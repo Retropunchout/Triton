@@ -72,6 +72,8 @@ roomdata = """
     west: "Breakroom",
     up: "Nexus - D5 'Medical'",
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -79,11 +81,13 @@ roomdata = """
     "Breakroom": {
     description: "A long dining room. Posters reminding engineers of their daily booster shots. A fridge is here, something red pouring out of it.",
     north: ,
-    east: "Central Aft Hall",
+    east: "Nexus D4 - Engineering",
     south: ,
     west: "Toilets",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -96,6 +100,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -105,9 +111,11 @@ roomdata = """
     north: ,
     east: "Tool Storage",
     south: ,
-    west: "Central Aft Hall",
+    west: "Nexus D4 - Engineering",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -120,6 +128,8 @@ roomdata = """
     west: "Locker-Room",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -132,6 +142,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10
     }
 ---
@@ -143,6 +155,8 @@ roomdata = """
     west: "Atmospherics",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -155,6 +169,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -167,6 +183,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -179,6 +197,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -191,6 +211,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -203,6 +225,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 35,
     vacuum: 0
     }
@@ -215,6 +239,8 @@ roomdata = """
     west: ,
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 0
     }
@@ -227,6 +253,8 @@ roomdata = """
     west: "Astern Airlock",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 1
     }
@@ -239,6 +267,8 @@ roomdata = """
     west: "Outboard Catwalk ('Hot Zone')",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 1
     }
@@ -251,6 +281,8 @@ roomdata = """
     west: "Meadow-3",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 1
     }
@@ -263,6 +295,8 @@ roomdata = """
     west: "Meadow-1",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 1
     }
@@ -275,6 +309,8 @@ roomdata = """
     west: "Meadow-2",
     up: ,
     down: ,
+    restriction: "",
+    objects: [Bandage,Pipe],
     corruption: 10,
     vacuum: 1
     }
